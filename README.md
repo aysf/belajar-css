@@ -17,3 +17,7 @@ yang digunakan disesuaikan dengan kebutuhan website tersebut. Berikut ini tipika
 
 dan masih banyak lagi jenis halaman lainnya. Untuk landing page, biasanya merangkum berbagai informasi seperti
 about, kontak, services, pricing dalam satu halaman.
+
+## CSS/JS Framework
+beberapa framework CSS/JS untuk mempercepat desain website
+1. [Pure CSS](https://purecss.io/) 
