@@ -3,9 +3,9 @@ ruang untuk belajar front end terutama html dan css, serta bereksperimen dengan 
 
 ## Structure Website
 Beberapa komponen website yang dapat dipadukan untuk membuat suatu halaman website sebagai berikut
-1. Header - panel navigasi - [sample 1](https://www.web-eau.net/blog/examples-header-bootstrap)
-2. Body - cards, our team, services - 
-3. Footer - copyright, navigasi, subscribe, kontak form 
+1. Header Style - panel navigasi - [sample1](https://www.web-eau.net/blog/examples-header-bootstrap) [sample2](https://css-tricks.com/creating-non-rectangular-headers/) [sample3](https://plantpot.works/1128)
+2. Body Style - cards, our team, services - 
+3. Footer Style - copyright, navigasi, subscribe, kontak form 
 
 ### Section Style
 1. Bar 
