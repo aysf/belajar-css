@@ -12,6 +12,7 @@ Beberapa komponen website yang dapat dipadukan untuk membuat suatu halaman websi
 2. Animated
 3. Video
 4. Carousel
+5. Border Style - [zigzag](https://codepen.io/AndreiDodu/pen/gziqn) [wave](https://smooth.ie/blogs/news/svg-wavey-transitions-between-sections) [oval](https://9elements.com/blog/css-border-radius/) [tools](https://www.shapedivider.app/)
 
 ## Tipe-tipe halaman website
 setiap website paling sedikit memiliki satu halaman hingga ratusan tergantung kebutuhan. Adapun jenis-jenis halaman
