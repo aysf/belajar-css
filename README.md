@@ -7,13 +7,14 @@ Beberapa komponen website yang dapat dipadukan untuk membuat suatu halaman websi
 2. Body Style - cards, our team, services - 
 3. Footer Style - copyright, navigasi, subscribe, kontak form 
 
-### Section Style
+## components for styling website
 1. Bar 
 2. Animated
 3. Video
 4. Carousel
 5. Border Style - [zigzag](https://codepen.io/AndreiDodu/pen/gziqn) [wave](https://smooth.ie/blogs/news/svg-wavey-transitions-between-sections) [oval](https://9elements.com/blog/css-border-radius/) [tools](https://www.shapedivider.app/) [diamond](https://stackoverflow.com/questions/49779519/css-diamond-triangle-shaped-divider-line-border)
-6. shape - [typical](https://css-tricks.com/the-shapes-of-css/)
+6. css shape - [typical](https://css-tricks.com/the-shapes-of-css/) [handborder](https://codepen.io/tmrDevelops/pen/VeRvKX)
+7. css generator - [wweb](https://wweb.dev/) [getwaves](https://getwaves.io/) [loading](https://loading.io/) [svgwave](https://svgwave.in/)
 
 ## Tipe-tipe halaman website
 setiap website paling sedikit memiliki satu halaman hingga ratusan tergantung kebutuhan. Adapun jenis-jenis halaman
