@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <style>
+            .box1{background: lightskyblue;}
+            .box2{
+                background: lightsalmon;
+                grid-area: header; /* Place Items in Grid Areas Using the grid-area PropertyPassed */
+            }
+            .box3{
+                background: paleturquoise;
+                align-self: stretch; /* similar to justify-self but for vertical alignment */
+            }
+            .box4{
+                background: lightpink;
+                justify-self: stretch; /* align an item horizonally using justify-self: center,start,end,strech */
+            }
+            .box5{
+                background: palegreen;
+                grid-column: 2/4; /* use grid column to control spacing */
+                grid-row: 2/4; /* use grid row to control spacing */
+                /* grid-area: horizontal line to start at / vertical line to start at / horizontal line to end at / vertical line to end at; */
+            }
+
+            .container{
+                margin: 0;
+                padding: 10px;
+                font-size: 40px;
+                min-height: 300px;
+                width: 100%;
+                background: lightgray;
+                display: grid;
+
+                grid-template-columns: 1fr 1fr 1fr; 
+                /* equal to 'repeat(3,1fr)' */
+                grid-template-columns: 1fr 1fr minmax(50px, 200px); 
+                /* Limit Item Size Using the minmax */
+
+                /* Create Flexible Layouts Using auto-fill */
+
+
+                grid-template-rows: 1fr 1fr 1fr;
+                grid-gap: 10px;
+                justify-items: stretch; /* align ALL items horizontally */
+                align-items: stretch; /* align ALL items vertically */
+                grid-template-areas:
+                /* Only change code below this line */
+                  "header header header"
+                  ". content content"
+                  "footer footer footer";
+                /* Only change code above this line */
+              
+            }
+        </style>
+    </head>
+
+    <body>
+        <div class="container">
+            <div class="box1">1</div>
+            <div class="box2">2</div>
+            <div class="box3">3</div>
+            <div class="box4">4</div>
+            <div class="box5">5</div>
+        </div>
+    </body>
+</html>
