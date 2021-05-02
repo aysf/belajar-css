@@ -39,3 +39,5 @@ beberapa framework CSS/JS untuk mempercepat desain website
 1. [Pure CSS](https://purecss.io/) > contoh: angular-enterprise.com
 2. [Alpine.js](https://github.com/alpinejs/alpine) > contoh: petanikode.com
 3. [Bootstrap](https://getbootstrap.com/) > contoh: 
+
+note: test auto5
